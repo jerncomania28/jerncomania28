@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there, I'm Jeremiah 👋
 
 - 🔭 I’m Jeremiah a Front End Developer . 
 - 🌱 I’m currently learning ReactJS with TypeScript.
