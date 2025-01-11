@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m freelancing as a Frontend Developer .<br>- 📚 I'm currently learning Node.js , express.js and MongoDB.<br>- ⚡ In my free time explore mobile Development using Flutter and Dart.</p>
+<p align="left">- 🔭 I’m currently freelancing as a Frontend Developer .<br>- 📚 I'm currently learning Node.js , express.js and MongoDB.<br>- ⚡ In my free time explore mobile Development using Flutter and Dart.</p>
 
 ###
 
